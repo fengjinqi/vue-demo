@@ -35,6 +35,7 @@
     data () {
       return {
         queryStr: ''
+        
       }
     },
     computed: {
